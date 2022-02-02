@@ -19,8 +19,8 @@ main .cards_box {
 
 main .cards_box .card {
   width: calc(16.6666666667% - 30px);
+  padding: 20px 0px;
   margin-right: 30px;
-  margin-bottom: 30px;
 }
 
 main .cards_box .card h3 {
